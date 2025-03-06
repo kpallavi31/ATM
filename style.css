@@ -1,0 +1,45 @@
+.atm {
+    width: 300px;
+    margin: 50px auto;
+    background-color: rgb(246, 249, 250);
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(23, 52, 180);
+}
+
+.screen {
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.keys {
+    margin-top: 20px;
+}
+
+.keys button {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #1a42f3;
+    color: #000000;
+    cursor: pointer;
+}
+
+.keys button:hover {
+    background-color: rgb(26, 243, 37);
+}
+
+.input {
+    margin-top: 20px;
+}
+
+.input input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
